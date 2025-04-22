@@ -12,7 +12,8 @@ If you wish to run this app locally, clone this repo and install the dependencie
 $ git clone https://github.com/siddhantkushwaha-star/sorting_visualizer.git
 $ cd sorting_visualizer
 $ npm install
-$ npm audit fix 
+$ npm audit fix
+$ npx nodemon
 ```
 
 ## App Design
